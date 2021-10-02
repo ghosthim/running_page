@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `/`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Run, Yes!',
-    siteUrl: 'https://run.api2u/me',
+    siteUrl: 'https://run.api2u.me',
     logo: 'https://blog.api2u.me/_next/image?url=%2Fimages%2Favatar.png&w=128&q=75',
     description: 'Running Sharing Page For Youngje',
     navLinks: [
